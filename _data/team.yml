@@ -133,6 +133,15 @@
   email: oyvind.nyheim@nina.no
   researchgate: Oyvind-Nyheim
 
+- name: Luca Pegoraro
+  image: assets/images/luca-pegoraro.png
+  description: >
+    Luca is a postdoc at the [University of Zurich](https://www.uzh.ch/en.html) with a background in ecology and evolutionary biology. He is interested in uncovering the link between insect movement and diversity in the air and ecological processes on the gorund. 
+  orcid: 0000-0001-6219-1285
+  email: luca.pegoraro@uzh.ch
+  researchgate: Luca-Pegoraro-3
+  googlescholar: w07Pg5EAAAAJ
+
 - name: Benjamin Rutschmann
   image: assets/images/benjamin-rutschmann.jpg
   description: >
